@@ -62,15 +62,6 @@ No JavaScript used.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-project-folder/ │ ├── index.html ├── style.css ├── images/ │ ├──
-hero-sec-bg.png │ ├── PPlogo.png │ ├── facebook.png │ ├── linkedin.png │
-├── instagram.png │ ├── youtube.png │ ├── phone.png │ ├── location.png │
-├── mail.png
-
-------------------------------------------------------------------------
-
 ## 📱 Responsive Design
 
 The website adapts to: - Desktop - Tablet - Mobile devices
