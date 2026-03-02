@@ -104,6 +104,7 @@ No build tools required.
 ## 👤 Author
 
 Aaryan Rai\
+Enrolment No.: 2502140002\
 Frontend Developer \| UI Enthusiast
 
 ------------------------------------------------------------------------
